@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Somasekhar 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> from Hyderabad, India <br/>
+  <b>Full Stack Developer</b> from Chennai, India <br/>
   Java • Spring Boot • Microservices • React • Kafka • MySQL
 </p>
 
